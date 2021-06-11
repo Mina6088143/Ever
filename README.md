@@ -1,6 +1,6 @@
 I do this project  interm to summit to the interviewer for Ever
 
-This is my first time do the react code so I learn from many sources ike how to create input page and so
+This is my first time do the react code so I learn from many sources like how to create input page and so
 
 In this I have link the project successfully with my firebase to upload the image from userInfo
 
